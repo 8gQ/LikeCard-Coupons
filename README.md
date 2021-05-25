@@ -1,6 +1,6 @@
 # LikeCard Coupons
 
-Free Like Card Coupon Generator By hmd
+You Can Get a free Coupon for LikeCard App . Just Download this file :D
 
 # How Run File ?
 
