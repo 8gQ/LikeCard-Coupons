@@ -14,4 +14,4 @@ dont ask me if you donkey ^_^
 
 *[hmd Telegram Account](https://t.me/RRLRR)* - *[Soud Telegram Account](https://t.me/Soud69)*
 
-*[Coder Telegram Channel](https://t.me/CoderStock)* - *[Soud Telegram Channel](https://t.me/Soudhere)*
+*[Coder Telegram Channel](https://t.me/CoderStock)* - *[Soud instagram Account](https://instagram.com/8y)*
