@@ -1,6 +1,6 @@
 # LikeCard Coupons . 
 
-You Can Get a free Coupon for LikeCard App . Just Download this file :D
+You Can Get a free Coupon for LikeCard App :D
 
 # How Run File ? .
 
