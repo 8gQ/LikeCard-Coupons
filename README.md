@@ -6,11 +6,10 @@ You Can Get a free Coupon for LikeCard App . Just Download this file :D
 
 upload the file on your SSh
 
-install php library , im already download it and dont have a link for library so im sorry :)
+install php library , im already download php Library and I dont have a link so im sorry :)
 
-php LikeCard.php
+type php LikeCard.php in Terminal and Enjoy .
 
-Enjoy .. 
  
- Coder Telegram : https://t.me/RRLRR
- Coder Stock : https://t.me/CoderStock
+*Coder Telegram : https://t.me/RRLRR*
+*Coder Stock : https://t.me/CoderStock*
