@@ -11,9 +11,9 @@ echo " _____  _         _____                              _
                                   | |                      
                                   |_|                      
                                     
-[+] - This Tool For Free . Made By HMD @e31L \n";
-echo "[+] - Coder : @RRLRR , Channel : @CoderStock \n";
-echo "[+] - Your Code : " . $code[1][0] . "\n";
+-- -- -- -- -- -- -- -- -- -- -- -- -- --\n
+[+] - This Tool For Free . Made By HMD @e31L \n;
+[+] - Your Code : " . $code[1][0] . "\n";
 
 # telegram : https://t.me/RRLRR #
 ?>
