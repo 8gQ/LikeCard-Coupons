@@ -13,7 +13,7 @@ echo " _____  _         _____                              _
                                     
 [+] - This Tool For Free . Made By HMD @e31L \n";
 echo "[+] - Coder : @RRLRR , Channel : @CoderStock \n";
-echo "[+] - Your Code : " . $code[1] . "\n";
+echo "[+] - Your Code : " . $code[1][0] . "\n";
 
 # telegram : https://t.me/RRLRR #
 ?>
