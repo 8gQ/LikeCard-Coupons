@@ -4,9 +4,9 @@ You Can Get a free Coupon for LikeCard App :D
 
 # How Run File ? .
 
-`git clone https://github.com/8gQ/LikeCard-Coupons`
-`cd LikeCard-Coupons`
-`php LikeCard.php`
+```git clone https://github.com/8gQ/LikeCard-Coupons```
+```cd LikeCard-Coupons```
+```php LikeCard.php```
 
 # ScreenShot .
 
