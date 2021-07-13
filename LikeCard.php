@@ -11,8 +11,8 @@ echo " _____  _         _____                              _
                                   | |                      
                                   |_|                      
                                     
--- -- -- -- -- -- -- -- -- -- -- -- -- --\n
-[+] - This Tool For Free . Made By HMD @e31L \n;
+-- -- -- -- -- -- -- -- -- -- -- -- -- --
+[+] - This Tool For Free . Made By HMD @e31L
 [+] - Your Code : " . $code[1][0] . "\n";
 
 # telegram : https://t.me/RRLRR #
